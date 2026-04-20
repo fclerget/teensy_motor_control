@@ -2,7 +2,9 @@
 This code is used for motor control via a Teensy 4.1 microcontroller
 It is meant to be used with a ROS2 architecture to receive the data from
 This project was developed using the Teensyduino extension on the Arduino IDE
+
 Author(s) : Fiya Clerget, Gianni Dragos
+
 Contact : sophiaclerget@gmail.com
 
 ==THIS REPO CONTAINS 4 FILES==

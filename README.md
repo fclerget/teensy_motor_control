@@ -2,8 +2,10 @@
 This code is used for motor control via a Teensy 4.1 microcontroller
 It is meant to be used with a ROS2 architecture to receive the data from
 This project was developed using the Teensyduino extension on the Arduino IDE
+Author(s) : Fiya Clerget, Gianni Dragos
+Contact : sophiaclerget@gmail.com
 
-==THIS REPO CONTAINS 6 FILES==
+==THIS REPO CONTAINS 4 FILES==
 
 serial_test.ino - this file is used to test and debug the serial transport and make sure the data is being sent correctly
                   includes debug print statements to make sure the process is working correctly
